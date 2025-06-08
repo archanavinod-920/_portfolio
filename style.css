@@ -1,0 +1,34 @@
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    padding: 1rem;
+  }
+}
+	
+.bg{
+  background-image:linear-gradient(to right,white,pink);
+  height:100%;
+  width:100vw;
+  background-size:cover;
+}
+.img{
+	border-radius:200px;
+	height:250px;
+	border-width:2px;
+	border-color:black;
+	border-style:solid;
+}
+.card{
+	background-image:linear-gradient(to right,#e2798a,pink);
+	color:black;
+	border-width:2px;
+	border-style:solid;
+	border-color:black;
+	padding-left:10px;
+	text-align:center;
+}
+.proj{
+	height:200px;
+	padding:10px;
+}
+
